@@ -18,6 +18,10 @@ Neste projeto, explorei técnicas de processamento de linguagem natural para ana
 3. Crie um arquivo chamado `README.md` onde você descreverá o processo de análise, insights obtidos e possibilidades exploradas.
 4. Compartilhe o link do seu repositório através do botão 'Entregar Projeto'.
 
+### Inputs e outputs imagens
+![img.png](imagens/img.png)
+![img.png](imagens/img2.png)
+![img_1.png](imagens/img_1.png)
 ### Insights e Possibilidades
 
 Durante o desenvolvimento deste projeto, explorei diversas técnicas de processamento de linguagem natural, incluindo:

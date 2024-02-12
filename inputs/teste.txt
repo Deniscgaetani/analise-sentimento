@@ -1,0 +1,4 @@
+Este é um exemplo de texto para análise de sentenças.
+Vamos ver como o sistema processa e interpreta estas frases.
+Será que consegue identificar entidades nomeadas, como lugares, pessoas ou datas?
+Estou curioso para ver os resultados!
